@@ -33,7 +33,7 @@ then the footer at last.
 
 CSS
 css is involved in the files through linking (externally) for neatness 
-float is to float contetn left or right,overflow :hidden does not let scroll bar appear
+float is to float content left or right,overflow :hidden does not let scroll bar appear
 id's are dealt with # and class has .
 
 

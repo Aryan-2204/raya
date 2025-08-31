@@ -10,16 +10,26 @@ Next I created a section called showcase which will have text and background ima
 then i created asection called newsletter which has a form input type:> and a button.
 created another section of boxes and added class container and box to all boxes so that styling can be easy
 and at last made the footer.
+<img width="1470" height="956" alt="Screenshot 2025-09-01 at 00 27 36" src="https://github.com/user-attachments/assets/9c111467-fcdf-4ff5-a6d5-221969c51219" />
+
+<img width="1470" height="956" alt="Screenshot 2025-09-01 at 00 27 42" src="https://github.com/user-attachments/assets/fc932cb9-773b-41fc-84b1-3a1d83de8368" />
+
 
 ABOUT PAGE : 
 The header has same contetns as home page but have 
 integrated articles in the section with aside -(sidebar)
 and footer at end.
 
+<img width="1470" height="956" alt="Screenshot 2025-09-01 at 00 27 52" src="https://github.com/user-attachments/assets/683755df-caa0-40de-9a65-8d2202bf9456" />
+
+
 SERVICE PAGE:
 The header is same as above but the section has different paragraphs with adding a form in aside 
 form contains : <label> and <input Type ="">
 then the footer at last.
+
+<img width="1470" height="956" alt="Screenshot 2025-09-01 at 00 27 58" src="https://github.com/user-attachments/assets/22e10388-f170-4beb-b09a-715c8261ab03" />
+
 
 CSS
 css is involved in the files through linking (externally) for neatness 
